@@ -25,6 +25,7 @@ pd.cut - used to cut a dataframe into specified pieces for creating categories -
 pd.crosstab
 
 df.loc - returns columns that we are interested in based on the criteria that we specify
+example http://pythonjourney.com/python-pandas-dataframe-loc-my-understanding-so-far/
 
 pd.qcut
 
