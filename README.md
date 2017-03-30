@@ -26,7 +26,7 @@ pd.crosstab - uses to check the frequency of a value in another
 pd.crosstab[df.Survived, df. df.Pclass]
 
 https://www.youtube.com/watch?v=4_VLxu41ffw
-
+http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-19_17.html
 
 
 df.loc - returns columns that we are interested in based on the criteria that we specify
