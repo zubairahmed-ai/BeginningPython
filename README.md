@@ -1,6 +1,9 @@
-.meshgrid - done
+Learning Python Syntax 
+===============================
 
-.arrange - done
+.meshgrid - 
+
+.arrange - 
 
 .ravel - flattens an array
 
