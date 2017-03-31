@@ -39,12 +39,39 @@ example http://pythonjourney.com/python-pandas-dataframe-loc-my-understanding-so
 
 > np.random.randint
 
+```
+family[ 'Family_Single' ] = family[ 'FamilySize' ].map( lambda s : 1 if s == 1 else 0 )
+```
 
-> family[ 'Family_Single' ] = family[ 'FamilySize' ].map( lambda s : 1 if s == 1 else 0 )
-
+```
 def get_title(name):
 	title_search = re.search(' ([A-Za-z]+)\.', name)
 	# If the title exists, extract and return it.
 	if title_search:
 		return title_search.group(1)
 	return ""
+```
+
+> sorted dictionary 
+
+```
+sorted_dict = sorted(acc_dict.items(), key=itemgetter(1), reverse=True)
+ 
+  for k, v in sorted_dict:
+    print "{0}-{1:.2%}".format(k, v)
+
+SVC-82.00%
+GradientBoostingClassifier-81.67%
+KNeighborsClassifier-80.89%
+AdaBoostClassifier-80.33%
+QDA-80.22%
+DecisionTreeClassifier-79.89%
+RandomForestClassifier-79.44%
+LDA-79.11%
+LogisticRegression-78.33%
+GaussianNB-77.44%
+
+```
+
+
+> sorting dictionary - http://stackoverflow.com/questions/613183/sort-a-python-dictionary-by-value
