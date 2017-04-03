@@ -81,4 +81,5 @@ GaussianNB-77.44%
 
 Installing Xgboost 
 =====================
+Follow the link to the Wiki
 https://github.com/zubairdotnet/BeginningPython/wiki/Installing-Xgboost
