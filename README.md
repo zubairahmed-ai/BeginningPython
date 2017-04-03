@@ -93,3 +93,6 @@ GaussianNB-77.44%
 
 
 > sorting dictionary - http://stackoverflow.com/questions/613183/sort-a-python-dictionary-by-value
+
+> array.contourf
+> array.scatter
