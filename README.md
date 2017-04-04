@@ -80,6 +80,8 @@ GaussianNB-77.44%
 
 > array.scatter
 
+> pd.get_dummies
+
 Installing Xgboost 
 =====================
 Follow the link to the Wiki
