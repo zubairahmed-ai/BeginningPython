@@ -80,7 +80,7 @@ GaussianNB-77.44%
 
 > array.scatter
 
-> pd.get_dummies
+> pd.get_dummies - used to one hot encode categorical variables
 
 Installing Xgboost 
 =====================
